@@ -1,0 +1,29 @@
+{
+  "name": "generator-demo",
+  "version": "0.0.1",
+  "description": "a demo generator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "app",
+    "router"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://geek-yin@github.com/geek-yin/generator-demo.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "geek-yin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geek-yin/generator-demo/issues"
+  },
+  "homepage": "https://github.com/geek-yin/generator-demo#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "yeoman-generator": "^0.20.3"
+  }
+}
